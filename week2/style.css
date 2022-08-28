@@ -1,0 +1,43 @@
+.cities {
+  text-align: center;
+  padding-top: 20px;
+  font-family: "Aboreto", cursive;
+}
+.search {
+  text-align: center;
+  font-size: 50px;
+  padding-top: 50px;
+  font-family: "Aboreto", cursive;
+}
+.weather-image {
+  text-align: right;
+  padding-top: 50px;
+}
+.title {
+  text-align: left;
+  padding-top: 50px;
+  font-size: 80px;
+  font-family: "Raleway", sans-serif;
+}
+.img {
+  list-style-type: none;
+  text-align: left;
+}
+.temperature {
+  text-align: center;
+}
+.day {
+  text-align: right;
+  font-family: "Raleway", sans-serif;
+}
+.weather {
+  text-align: left;
+  font-family: "Raleway", sans-serif;
+}
+.advice {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 50px;
+  font-family: "Aboreto", cursive;
+}
